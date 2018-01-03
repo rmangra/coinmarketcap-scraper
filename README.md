@@ -12,4 +12,4 @@ Web scraping project that gathers the data for top 100 cryptocurriences on coinm
 7. Queries database and returns user selected entries in an Excel sheet.
 
 #### Screenshot of sample outputs and database table:
-https://github.com/rmangra/coinmarketcap-scraper/blob/master/Sample_Output1.png
+![alt text](https://github.com/rmangra/coinmarketcap-scraper/blob/master/Sample_Output1.png "Sample Output")
